@@ -44,8 +44,8 @@ Sou um jovem dedicado e apaixonado pela área de TI desde os 9 anos, aprendendo 
 
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySQL" 
+    title="MySQL"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -54,8 +54,8 @@ Sou um jovem dedicado e apaixonado pela área de TI desde os 9 anos, aprendendo 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C" 
+    title="C"
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -65,8 +65,8 @@ Sou um jovem dedicado e apaixonado pela área de TI desde os 9 anos, aprendendo 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C#" 
+    title="C#"
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
