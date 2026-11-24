@@ -33,7 +33,7 @@ Formado como **Técnico em Informática** pela EETEPA Deodoro de Mendonça e gra
 Com base prática em **suporte técnico, infraestrutura e redes**, hoje direciono meu foco para o **desenvolvimento fullstack** — construindo aplicações web completas, organizadas e funcionais, do back-end à interface.
 
 <p align="center">
-  <img src="./assets/sobre-bento.svg" alt="Resumo profissional — Fábio Kauã" width="100%" />
+  <img src="./assets/sobre-bento.svg" alt="Resumo profissional — Fábio Silva" width="100%" />
 </p>
 
 ---
