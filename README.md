@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  Ananindeua, PA — Brasil · Disponível para projetos freelance
+  Belém do Pará — Brasil · Disponível para projetos freelance
 </p>
 
 <!-- Links de contato -->
