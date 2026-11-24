@@ -2,7 +2,7 @@
 
 <!-- Header dinâmico minimalista -->
 <a href="https://github.com/unnebell">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=640&lines=F%C3%A1bio+Kau%C3%A3;Desenvolvedor+Fullstack;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+Suporte+%26+Redes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=640&lines=F%C3%A1bio+Silva;Desenvolvedor+Fullstack;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+Suporte+%26+Redes" alt="Typing SVG" />
 </a>
 
 <p align="center">
